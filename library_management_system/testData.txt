@@ -1,0 +1,4 @@
+formin=1
+ak74=1
+asd=asd
+12=1
